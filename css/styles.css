@@ -1,0 +1,386 @@
+
+body{
+
+}
+
+#title {
+  background-color: black;
+  color:#fff;
+}
+
+.main-texttop{
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 100px;
+  font-family: 'Major Mono Display', monospace;
+
+}
+
+.ahhhh{
+  font-size: 70px;
+  color:yellow;
+  text-decoration: underline;
+}
+
+.ahhhhCartoon{
+  font-size: 70px;
+  color:yellow;
+  text-decoration: underline;
+}
+
+.sandwich {
+  font-size: 50px;
+  color:yellow;
+}
+
+}
+.PlayerName{
+  padding-left: 25px;
+}
+
+.PlayerName22{
+  padding-left: 25px;
+  color:red;
+}
+
+.HeaderTrueLove{
+
+  text-align: center;
+}
+
+.btn3 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 10px;
+   color: yellow;
+   font-family: "Ubuntu";
+   width: 75%;
+   font-size: 45px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+.buttonbilly{
+
+    padding-top: 55px;
+    padding-bottom: 40px;
+    font-family: serif;
+}
+
+
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+h1{
+  font-family: 'Montserrat-Black'sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-size: 3rem;
+}
+
+
+h3{
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+
+}
+
+p{
+color: #8f8f8f;
+
+
+}
+
+/* Navigation Bar */
+
+
+
+.navbar {
+padding-bottom: 4.5rem;
+
+}
+
+.nav-item {
+padding: 0 18px;
+
+
+}
+
+.nav-link{
+font-size: 42px;
+font-family: "Ubuntu";
+font-weight: bold;
+
+
+}
+
+.navbar-brand {
+font-family: "Ubuntu";
+font-size: 66px;
+font-weight: bold;
+
+}
+
+/* Download Buttons */
+
+.download-button {
+
+margin: 5% 3% 5% 0;
+
+}
+
+
+/* Title Image */
+
+
+.title-image {
+
+width:60%;
+transform: rotate(0);
+position: static;
+
+}
+
+/* Features Section */
+
+
+
+#features {
+padding: 7% 15%;
+background-color: #fff;
+position: relative;
+z-index: 1;
+
+}
+
+.feature-box {
+text-align: center;
+padding:5%;
+
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+
+
+}
+
+/* Testimonials Section */
+
+.namelocation{
+
+  font-size: 22px;
+}
+
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+
+}
+
+.testimonial-text{
+
+  font-family: 'Alfa Slab One', cursive;
+
+
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+
+
+}
+
+.carousel-item {
+  padding: 7% 15%;
+
+
+}
+
+#press{
+
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+
+
+}
+
+.press-logo {
+
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+/* Pricing/card Section */
+
+.dog-name{
+
+font-family: 'Irish Grover', cursive;
+font-size: 35px;
+color: #ff4c68;
+
+}
+
+#pricing {
+
+padding:100px;
+text-align: center;
+background-color: gray;
+color: white;
+
+}
+
+.powerpoint{
+
+  padding-top: 20px;
+
+  background-color: black;
+}
+
+.pricing column {
+
+  padding: 3% 2%;
+}
+
+@media (max-width: 1028px) {
+
+
+
+.title-image {
+
+position: static;
+transform: rotate (0);
+
+}
+
+
+}
+
+/* CTA or Call to Action Section */
+
+#cta {
+
+background-color: black;
+color: #fff;
+padding: 7% 15%;
+text-align: center;
+
+
+
+}
+
+
+#features{
+
+  background-color: black;
+}
+
+
+
+
+.cta-heading{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+
+.picture {
+  padding-top: 60px;
+  height: 100%;
+  width: 100%;
+  position:static;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.welcome2{
+
+  font-family: "Ubuntu";
+  font-size: 44px;
+  color:white;
+
+
+
+}
+
+
+
+@media (min-width: 360px) {
+
+  #intro{
+
+background-color: yellow;
+padding-top: 60px;
+padding-left: 35px;
+padding-right: 35px;
+padding-bottom: 60px;
+
+  }
+
+.bold-typehead{
+
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 55px;
+
+  }
+
+.mobile-size {
+
+font-size: 42px;
+color: black;
+font-family: 'Major Mono Display', monospace;
+
+}
+
+
+
+
+}
+
+/* Footer Section */
+
+#footer {
+padding: 7% 15%;
+text-align: center;
+font-size: 22px;
+color: black;
+
+}
